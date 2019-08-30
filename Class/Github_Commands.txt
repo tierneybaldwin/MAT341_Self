@@ -1,0 +1,12 @@
+Github Commands -- How to Upload Files to Github
+
+
+1. git add [File/Folder name - make sure it's case sensitive]
+
+2. git commit " whatever u want to say "
+  a. may need to give user email (git config --global user.email "email")
+  b. may also need to give username (git config --global user.name "username")
+
+3. git push
+
+
