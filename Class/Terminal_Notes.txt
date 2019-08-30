@@ -1,0 +1,16 @@
+Notes on Terminal Commands
+
+how to edit vi folders:
+
+v is visual, idk what it does tho
+
+i is insert, allows you to enter in notes like i'm doing now.. you can only use keyboard tho not mouse, i allows u to start editing
+
+esc, button not just the letters, allows u to stop editing
+
+i# jumps u to that line so u don't have to scroll
+
+:w is write/save
+:q is quit, to get out of vi
+
+
