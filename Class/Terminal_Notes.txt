@@ -1,16 +1,16 @@
 Notes on Terminal Commands
 
-how to edit vi folders:
+ls: lists all the files/folders in the current directory
 
-v is visual, idk what it does tho
+cd [ name]: changes directory (ie opening a file)
+cd ..: goes back one directory
+cd: just typing cd by itself takes you back to the root directory
 
-i is insert, allows you to enter in notes like i'm doing now.. you can only use keyboard tho not mouse, i allows u to start editing
+clear: erases everything in the terminal
 
-esc, button not just the letters, allows u to stop editing
+pwd: shows the path/folders you are in, from root directory up to current directory
 
-i# jumps u to that line so u don't have to scroll
+vi [name].txt creates a new file in the current folder. this file is edited using vi
 
-:w is write/save
-:q is quit, to get out of vi
 
 
