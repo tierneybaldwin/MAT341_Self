@@ -1,0 +1,13 @@
+vi Commands
+typing vi [name].txt will create a new file, which you edit using vi commands
+
+
+i(insert): allows you to edit the file/add notes. you can only use your keyboard/arrow keys to navigate the file, not your mouse.
+
+esc (the button, not typing the letter): allows you to stop editing
+
+i#: jumps to that line, so you don't have to scroll
+
+:w is write/save, will save the current version of the file
+
+:q is quit, exits vi, brings you back to the terminal
