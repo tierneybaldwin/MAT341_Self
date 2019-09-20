@@ -10,3 +10,7 @@ for i=n : -1 : 0  % count backwards!
 end
 
 Tn % output the final sum
+
+% when (m,n) = (13, 31), the output Tn = 3
+% when (m,n) = (13, 43), the output Tn = 3
+% the limit appears to be 3
