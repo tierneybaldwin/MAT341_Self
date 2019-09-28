@@ -11,12 +11,12 @@ counter = 0; % initializing the counter
 for i=1:N 
     
   % randomizing point A
-        x_Coor1 = 4 * rand() - 2 % will randomize the X coordinate 
+        x_Coor1 = 4 * rand() - 2; % will randomize the X coordinate 
                                   % to be somewhere between [-2,2]
         
         % formula for a circle is x^2 + y^2 = r^2
         % in this case y = +/- sqrt(4 - x^2)  
-        y_Coor1 = sqrt(4 - (x_Coor1)^2)
+        y_Coor1 = sqrt(4 - (x_Coor1)^2);
         
         % randomizing the sign on y_Coor1  
         sign1 = -1;
@@ -24,7 +24,7 @@ for i=1:N
         if (neg_Or_Pos1 <= 0.5)
             sign1 = 1; 
         end
-        y_Coor1 = y_Coor1 * sign1
+        y_Coor1 = y_Coor1 * sign1;
         
         
   % randomizing point B
