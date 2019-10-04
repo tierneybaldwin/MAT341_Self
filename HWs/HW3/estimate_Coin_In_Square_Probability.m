@@ -63,4 +63,5 @@ end
  
    
 % Q: What makes this more difficult than the coin flip case we did in class?
-   % The region that the coin can land in is bounded 
+   % The region that the coin can land in is bounded, and instead of just being one
+   % single point (like with the dart problem) this coin is an area
